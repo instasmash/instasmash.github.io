@@ -1,198 +1,230 @@
-@media screen and (max-width:850px){
-    ul li{
-        list-style: none;
-        font-family: 'Permanent Marker', cursive; 
-        color: #fff;
-        font-size: 1.3rem;
-        
-    }
-    .eventimages-container{
-        margin-top: 10rem;
-        height: 350px;
-        width: 350px;
-        padding: 7px;
-      
-    }
-    #platform-section h1{
-        margin-top: 13rem;
-        font-family: 'Permanent Marker', cursive; 
-        font-size: 3rem;
-        color: #fff;
-    }
+@media screen and (max-width:810px){
+   .eventimages-container{
+       height: 300px;
+       width: 300px;
+   }
+   h3 {
+    margin-top: 5rem;
+   
 }
-@media screen and (max-width:770px){
-    h3 {
-        margin-top: 5rem;
-        font-size: 3rem;
-        font-family: 'Permanent Marker', cursive; 
-        color: #fff;
-    }
+#platform-section h1 {
+    margin-top: 8rem;
+    font-size: 3rem;
+   
+}
+
+.smedia-icon {
+    
+
+    margin-top: 8rem;
+    
+   
+}
+#contact-us h1 {
+    margin-top: 1rem;
+   
+}
+}
+@media screen and  (max-width:766px){
     #event-section{
-       height: auto;
-       margin-top: -10rem;
-      
-        }
-        #platform-section{
-          
-            height:auto;
-           
-        }
-        .eventimages-container{
-            margin-top: 1rem;
-            height: 340px;
-            width: 340px;
-            padding: 10px;
-            margin-bottom: 3rem;
-        }
-        #platform-section h1{
-            margin-top: 1.5rem;
-            
-        }
-}
-@media screen and (max-width:610px){
-    #event-section{
-        text-align: center;
-        
-        }
-        .eventimages-container{
-            
-           margin-left: 5rem;
-           margin-right: 5rem;
-        }
-}
-@media screen and (max-width:440px){
-    h3 {
-       
-        font-size: 2rem;
-        
+        height: auto;
     }
-    ul li{
-        
-        font-size: 1.3rem;
-        
-    }
-    .eventimages-container{
-        margin-top: 1rem;
-        height: 320px;
-        width: 320px;
-        padding: 10px;
-        margin-bottom: 3rem;
-          
-        margin-left: 2rem;
-        margin-right: 2rem;
-    }
-    #contact-us h1{
-      
-        font-size: 3rem;
-        
-        
-    }
-    
-}
-@media screen and (max-width:370px){
-    .eventimages-container{
-       
-        height: 280px;
-        width: 280px;
-       
-          
-        
-    }
-}
-@media screen and (max-width:350px){
-    #contact-us img {
-        height: 50px;
-        width: 50px;
-     }
-     #contact-us a{
-        text-decoration: none;
-        font-size: 3rem;
-        color: #fff;
-        padding: 10px;
-       
-    
-    }
-    .head-style{
-        
-        font-size: 2.3rem;
-        
+    #contact-us h1 {
+        margin-top: 0rem;
        
     }
-    .eventimages-container{
-       
-        height: 250px;
-        width: 250px;
-        margin-left: 0rem;
-        margin-right: 0rem;
-       
-          
-        
-    }
-    #platform-section h1{
-    
-        font-size: 2.4rem;
-        
-    }
-    .smedia-icon i {
-        font-size: 3rem;
-        color: #fff;
-        padding: 8px;
-    }
-    #header-content img {
-    height: 200px;
-    width: 200px;
-    margin-top: 3rem;
-}
-}
-@media screen and (max-width:280px){
-    .eventimages-container{
-       
-        height: 220px;
-        width: 220px;
-        margin-left: 0rem;
-        margin-right: 0rem;
+    #platform-section {
+
+        height: auto;
+     
      
         
     }
-    .smedia-icon{
-        height: 150px;
-        width: 150px;
+    .head-style {
+        
+        margin-top: 2rem;
     
     }
+}
+@media screen and (max-width:720px){
+    .head-style {
+        
+        margin-top: 2rem;
+    
+    }
+}
+@media screen and (max-width:430px){
+    #contact-us h1 {
+       
+        font-size: 2rem;
+        
+    
+    }
+    #platform-section h1 {
+     
+        font-size: 2rem;
+        
+    }
+    .smedia-icon {
+       margin-top: 5rem;
+      
+
+    }
+    .smedia-icon i {
+        font-size: 6rem;
+        
+        
+        
+       
+    }
+    
+    .smedia-icon img {
+        height: 110px;
+        width: 120px;
+        
+        
+    }
+    #contact-us  {
+        height: auto;
+         
+     
+     }
+}
+@media screen and (max-width:380px){
+    #contact-us  {
+       height: auto !important;
+        
+    
+    }
+    .head-style {
+        
+        margin-top: 1rem;
+    
+    }
+    .smedia-icon img {
+       margin-top: 1rem;
+        
+        
+    }
+    #platform-section h1 {
+        margin-top: 6rem;
+        
+    }
+    #platform-section  {
+     
+       height: auto;
+        
+    }
+    #contact-us  {
+        margin-top: 0rem;
+              
+          
+          }
+          #contact-us  h1 {
+            
+            margin-top: 9rem;
+        }
+}
+@media screen and (max-width:340px){
+    .eventimages-container{
+        height: 240px;
+        width: 240px;
+    }
+    .head-style {
+        
+        font-size: 2.5rem;
+    
+    }
+    #header-content img {
+        height: 250px;
+        width: 250px;
+        
+    }
+    #contact-us  {
+        margin-top: -1rem;
+              
+          
+          }
+          #contact-us  h1 {
+            
+            margin-top: 9rem;
+        }
+}
+@media screen and (max-width:290px){
+    .head-style {
+        
+        font-size: 2rem;
+    
+    }
+    h2 {
+        font-size: 1.6rem;
+       
+    
+    }
+    h3 {
+       
+        font-size: 2.2rem;
+       
+    }
+    
+    ul li {
+      
+       
+        font-size: 1.5rem;
+    
+    }
+    .smedia-icon {
+      margin-left: 1rem;
+    }
+    
     .smedia-icon i{
         font-size: 3rem;
     }
     .smedia-icon img{
-        height: 50px;
-        width: 50px;
+        height: 60px;
+        width: 80px;
+        margin-top: 0rem;
     }
-    #contact-us h1{
-       
-        font-family: 'Permanent Marker', cursive; 
-        font-size: 2rem;
-        
+    #contact-us  {
+        margin-top: -1rem;
+              
+          
+          }
+          #contact-us  h1 {
+            
+            margin-top: 9rem;
+        }
+   
+}
+@media screen and (max-width:250px){
+    #header-content img {
+        height: 200px;
+        width: 200px;
         
     }
-    #platform-section h1{
-       
-        font-size: 2rem;
-        
+    .eventimages-container{
+        height: 200px;
+        width: 200px;
     }
-    #contact-us a{
+    .head-style {
+        
+        font-size: 1.5rem;
     
-        font-size: 3rem;
-       
-        padding: 7px;
-       
-    
-    }
-    .head-style{
-        
-        font-size: 2rem;
-        
-       
     }
     h2 {
-        font-size: 1rem;
+        font-size: 1.2rem;
+       
+    
     }
+    h3 {
+       
+        font-size: 1.8rem;
+       
+    }
+    
+    ul li {
+      
+       
+        font-size: 1.3rem;
+    
 }
