@@ -1,230 +1,94 @@
-@media screen and (max-width:810px){
-   .eventimages-container{
-       height: 300px;
-       width: 300px;
-   }
-   h3 {
-    margin-top: 5rem;
+@media screen and (max-width:1020px){
    
-}
-#platform-section h1 {
-    margin-top: 8rem;
-    font-size: 3rem;
-   
-}
-
-.smedia-icon {
-    
-
-    margin-top: 8rem;
-    
-   
-}
-#contact-us h1 {
-    margin-top: 1rem;
-   
-}
-}
-@media screen and  (max-width:766px){
-    #event-section{
-        height: auto;
-    }
-    #contact-us h1 {
-        margin-top: 0rem;
-       
-    }
-    #platform-section {
-
-        height: auto;
-     
-     
-        
-    }
-    .head-style {
-        
-        margin-top: 2rem;
-    
-    }
-}
-@media screen and (max-width:720px){
-    .head-style {
-        
-        margin-top: 2rem;
-    
-    }
-}
-@media screen and (max-width:430px){
-    #contact-us h1 {
-       
-        font-size: 2rem;
-        
-    
-    }
-    #platform-section h1 {
-     
-        font-size: 2rem;
-        
-    }
-    .smedia-icon {
-       margin-top: 5rem;
-      
-
-    }
     .smedia-icon i {
         font-size: 6rem;
-        
-        
-        
+        margin-top: 1rem;
+       
        
     }
-    
     .smedia-icon img {
-        height: 110px;
-        width: 120px;
-        
-        
-    }
-    #contact-us  {
-        height: auto;
-         
+        height: 120px;
+        width: 130px;
+        margin-top: -10px;
      
-     }
+    }
 }
-@media screen and (max-width:380px){
-    #contact-us  {
-       height: auto !important;
-        
+@media screen and (max-width:825px){
     
+#platform-section h1 {
+
+    font-size: 3rem;
+    
+}
+}
+@media screen and (max-width:600px){
+    .head-style{
+        margin-top:0rem;
     }
-    .head-style {
-        
+}
+@media screen and (max-width:560px){
+    .eventimages-container {
+        height: 200px;
+        width: 200px;
+        text-align: center;
+        margin: 0rem;
+    }
+    .smedia-icon {
+        margin: 0rem;
         margin-top: 1rem;
-    
-    }
-    .smedia-icon img {
-       margin-top: 1rem;
-        
-        
     }
     #platform-section h1 {
-        margin-top: 6rem;
+        margin: 0rem;
+        font-size: 2rem;
         
     }
-    #platform-section  {
-     
-       height: auto;
-        
-    }
-    #contact-us  {
-        margin-top: 0rem;
-              
-          
-          }
-          #contact-us  h1 {
-            
-            margin-top: 9rem;
-        }
-}
-@media screen and (max-width:340px){
-    .eventimages-container{
-        height: 240px;
-        width: 240px;
-    }
-    .head-style {
-        
-        font-size: 2.5rem;
+    #contact-us h1 {
+   font-size: 2rem;
     
+    }
+}
+@media screen  and (max-width:350px){
+    .head-style{
+        font-size: 2.1rem;
+    }
+    .eventimages-container {
+        height: 170px;
+        width: 190px;
+        text-align: center;
+       align-content: center;
+       
     }
     #header-content img {
         height: 250px;
         width: 250px;
         
     }
-    #contact-us  {
-        margin-top: -1rem;
-              
-          
-          }
-          #contact-us  h1 {
-            
-            margin-top: 9rem;
-        }
-}
-@media screen and (max-width:290px){
-    .head-style {
-        
-        font-size: 2rem;
-    
-    }
-    h2 {
-        font-size: 1.6rem;
-       
-    
-    }
-    h3 {
-       
-        font-size: 2.2rem;
-       
-    }
-    
-    ul li {
-      
-       
-        font-size: 1.5rem;
-    
-    }
-    .smedia-icon {
-      margin-left: 1rem;
-    }
-    
     .smedia-icon i{
-        font-size: 3rem;
+        font-size: 5rem;
     }
-    .smedia-icon img{
-        height: 60px;
-        width: 80px;
-        margin-top: 0rem;
+    .smedia-icon img {
+        height: 80px;
+        width:100px;
+        margin-top: 1rem;
     }
-    #contact-us  {
-        margin-top: -1rem;
-              
-          
-          }
-          #contact-us  h1 {
-            
-            margin-top: 9rem;
-        }
-   
+    
+#contact-us a {
+   display: block;
+   margin-bottom: 0rem;
+   padding-bottom: 0rem;
+
+
 }
-@media screen and (max-width:250px){
-    #header-content img {
-        height: 200px;
-        width: 200px;
-        
-    }
-    .eventimages-container{
-        height: 200px;
-        width: 200px;
-    }
-    .head-style {
-        
-        font-size: 1.5rem;
-    
-    }
-    h2 {
-        font-size: 1.2rem;
-       
-    
-    }
-    h3 {
-       
-        font-size: 1.8rem;
-       
-    }
-    
-    ul li {
-      
-       
-        font-size: 1.3rem;
+h3 {
+  
+    font-size: 2rem;
+}
+
+ul li {
+   
+ 
+    font-size: 1.2rem;
+
+}
     
 }
