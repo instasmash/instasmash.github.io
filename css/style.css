@@ -90,13 +90,13 @@
     background-size: cover;
     height: auto;
     
-    padding-bottom: 200px;
+    padding-bottom: 50px;
 
 }
 
 #header-content img {
-    height: 300px;
-    width: 300px;
+    height: 450px;
+    width: 450px;
     margin-top: 4rem;
 }
 
@@ -105,7 +105,7 @@
     background: linear-gradient(to right, #bc2695 0%, #ea5f49 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 3rem;
+    font-size: 4rem;
     font-family: 'Permanent Marker', cursive;
     margin-top: 10rem;
 
@@ -128,15 +128,15 @@
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: 'Permanent Marker', cursive;
     color: #fff;
 
 }
 
 .my-btn {
-    height: 3rem;
-    width: 7rem;
+    height: 4rem;
+    width: 8rem;
     border: none;
     outline: none;
     border-radius: 8px;
@@ -161,12 +161,12 @@ h2 {
 /* close-header-content */
 #event-section {
    
-  background: url(../images/events-background.png);
+  background: url(../images/InstaSmash2020InvitesFINAL\ copy.png);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
     height: auto;
-    text-align: center;
+    text-align: left;
     padding: 5rem;
     
 
@@ -190,11 +190,11 @@ ul li {
 
 }
 
-.eventimages-container {
-    margin-top: 5rem;
-    
+.eventimages-container{
+    height: 485px;
+    width: 545px;
     margin: 5rem;
-    text-align: center;
+    margin-left: -1rem;
 }
 
 .eventimages-container img {
@@ -206,15 +206,22 @@ ul li {
 #platform-section {
 
     
- background: url(../images/platform-background.png);
+ background: url(../images/instagramgradient.png);
  background-repeat: no-repeat;
- background-attachment: fixed;
+
  background-size: cover;
  height: auto;
     text-align: center;
     padding: 5rem;
 }
-
+.mblhead{
+    
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.9rem;
+    text-align: center;
+   margin-left: -2rem;
+   display: none;
+    color: #fff;}
 #platform-section h1 {
     margin-top: 10rem;
     font-family: 'Permanent Marker', cursive;
@@ -236,14 +243,17 @@ ul li {
     font-size: 8rem;
     color: #fff;
     padding-left: 35px;
+    text-align: center;
    
 }
 
 .smedia-icon img {
     height: 130px;
     width: 150px;
-    margin-top: -5rem;
+    margin-top: -3rem;
     padding-left: 35px;
+    text-align: center;
+    
 }
 
 /* close-platform-section */
@@ -260,7 +270,7 @@ ul li {
     text-decoration: none;
     font-size: 5rem;
     color: #fff;
-    padding: 15px;
+    padding-left: 1rem;
 
 
 }
@@ -285,5 +295,5 @@ ul li {
 #contact-us img {
     height: 100px;
     width: 100px;
-    margin-top: -8px;
+    margin-top: -7px;
 }

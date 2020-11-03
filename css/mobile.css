@@ -1,94 +1,350 @@
-@media screen and (max-width:1020px){
-   
-    .smedia-icon i {
-        font-size: 6rem;
-        margin-top: 1rem;
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+    #header-content img {
+        height: 350px;
+        width: 350px;
+        margin-top: 5rem;
+    }
+    
+    .head-style {
        
+        font-size: 3rem;
+        
+    }
+    h2 {
+        font-size: 2rem;
+        
+    
+    }
+    .eventimages-container{
+        height: 285px;
+        width: 345px;
+        margin: 5rem;
+        margin-left: -1rem;
+    }
+    h3 {
+       
+        font-size: 2rem;
        
     }
-    .smedia-icon img {
-        height: 120px;
-        width: 130px;
-        margin-top: -10px;
-     
+    
+    ul li {
+       
+        font-size: 1.3rem;
+    
     }
-}
-@media screen and (max-width:825px){
     
 #platform-section h1 {
-
+    
     font-size: 3rem;
+   
+}
+
+
+
+.smedia-icon i {
+    font-size: 6rem;
+    color: #fff;
+    padding-left: 35px;
+   
+}
+
+.smedia-icon img {
+    height: 85px;
+    width: 110px;
+    margin-top:0rem;
     
 }
+#contact-us h1 {
+   
+
+    font-size: 3rem;
+   
+
 }
-@media screen and (max-width:600px){
-    .head-style{
-        margin-top:0rem;
-    }
+#contact-us a {
+   
+    font-size: 4rem;
+    padding: 0rem;
+    padding-left: 1rem;
+
+
 }
-@media screen and (max-width:560px){
-    .eventimages-container {
-        height: 200px;
-        width: 200px;
-        text-align: center;
-        margin: 0rem;
+#contact-us img {
+    height: 80px;
+    width: 80px;
+    margin-top: -8px;
+}
+
+
+    
+  }
+
+  @media (min-width: 481px) and (max-width: 767px) {
+    #header-content img {
+        height: 320px;
+        width: 320px;
+        margin-top: 5rem;
     }
-    .smedia-icon {
-        margin: 0rem;
-        margin-top: 1rem;
-    }
-    #platform-section h1 {
-        margin: 0rem;
+    
+    .head-style {
+       
         font-size: 2rem;
         
     }
-    #contact-us h1 {
-   font-size: 2rem;
+    h2 {
+        font-size: 1.7rem;
+        
     
     }
-}
-@media screen  and (max-width:350px){
-    .head-style{
-        font-size: 2.1rem;
+    .eventimages-container{
+        height: 265px;
+        width: 335px;
+        margin: 5rem;
+        margin-left: -1rem;
     }
-    .eventimages-container {
-        height: 170px;
-        width: 190px;
-        text-align: center;
-       align-content: center;
+    h3 {
+       
+        font-size: 1.6rem;
        
     }
+    
+    ul li {
+       
+        font-size: 1rem;
+    
+    }
+    
+#platform-section h1 {
+    
+    font-size: 2.2rem;
+   
+}
+
+
+
+.smedia-icon i {
+    font-size: 5rem;
+  
+   
+}
+
+.smedia-icon img {
+    height: 75px;
+    width: 100px;
+    margin-top:0rem;
+    
+}
+#contact-us h1 {
+   
+
+    font-size: 2.3rem;
+   
+
+}
+#contact-us a {
+   
+    font-size: 3rem;
+    
+
+}
+#contact-us img {
+    height: 70px;
+    width: 70px;
+    margin-top: -8px;
+}
+
+
+
+    
+  }
+  @media (min-width: 320px) and (max-width: 480px) {
+  
     #header-content img {
-        height: 250px;
-        width: 250px;
+        height: 290px;
+        width: 290px;
+        margin-top: 5rem;
+    }
+    
+    .head-style {
+       
+        font-size: 1.8rem;
         
     }
-    .smedia-icon i{
-        font-size: 5rem;
+    h2 {
+        font-size: 1.4rem;
+        
+    
     }
-    .smedia-icon img {
-        height: 80px;
-        width:100px;
-        margin-top: 1rem;
+    .eventimages-container{
+        height: 200px;
+        width: 250px;
+        margin: 5rem;
+        margin-left: -3rem;
+    }
+    h3 {
+       
+        font-size: 1.6rem;
+       
     }
     
-#contact-us a {
-   display: block;
-   margin-bottom: 0rem;
-   padding-bottom: 0rem;
-
-
-}
-h3 {
-  
+    ul li {
+       
+        font-size: 1rem;
+    
+    }
+    
+#platform-section h1 {
+    
     font-size: 2rem;
-}
-
-ul li {
    
- 
-    font-size: 1.2rem;
+}
+
+
+
+.smedia-icon i {
+    font-size: 4rem;
+  
+   
+}
+
+.smedia-icon img {
+    height: 65px;
+    width: 95px;
+    margin-top:0rem;
+    
+}
+#contact-us h1 {
+   
+
+    font-size: 2rem;
+   
 
 }
+#contact-us a {
+   
+    font-size: 2rem;
     
+
+}
+#contact-us img {
+    height: 50px;
+    width: 50px;
+    margin-top: -8px;
+}
+
+
+
+    
+  }
+    
+@media screen  and (max-width:320px){
+    .eventimages-container{
+        height: 180px;
+        width: 220px;
+        margin: 5rem;
+        margin-left: -3rem;
+    }
+    .smedia-icon i {
+      
+      
+     
+        margin-top: 1rem;
+     margin-left: -3rem;
+     margin-right: 3rem;
+       
+    }
+    
+    .smedia-icon img {
+        margin-top: 1rem;
+        margin-left: -3rem;
+        margin-right: 3rem;
+    }
+    .my-btn {
+        height: 3rem;
+        width: 6rem;
+        border: none;
+        outline: none;
+        border-radius: 8px;
+        background-color: #fff;
+        margin-top: 2rem;
+    }
+    #header-content img {
+        height: 270px;
+        width: 270px;
+        margin-top: 5rem;
+    }
+    
+    .head-style {
+       
+        font-size: 1.8rem;
+    margin-top: 1rem;
+        
+    }
+    h2 {
+        font-size: 1.1rem;
+        
+    
+    }
+    .eventimages-container{
+        height: 170px;
+        width: 210px;
+        margin: 5rem;
+        margin-left: -3rem;
+    }
+    h3 {
+       
+        font-size: 1.9rem;
+       
+    }
+    
+    ul li {
+       
+        font-size: 1rem;
+    
+    }
+    
+#platform-section h1 {
+    
+  display: none;
+}
+
+
+
+.smedia-icon i {
+    font-size: 3rem;
+  
+   
+}
+
+.smedia-icon img {
+    height: 70px;
+    width: 90px;
+    margin-top:0rem;
+    
+}
+#contact-us h1 {
+   
+
+    font-size: 1.7rem;
+   
+
+}
+#contact-us a {
+   
+    font-size: 1.6rem;
+    
+
+}
+.mblhead{
+    display: block;
+}
+#contact-us img {
+    height: 40px;
+    width: 40px;
+    margin-top: -7px;
+}
+
+
+
 }
